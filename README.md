@@ -7,16 +7,16 @@
 It's a kind of mind in Java development to help you 
 decoupling , and in future, it can help you maintain your code .
 
-It has to much advantages.
+It has too much advantages.
 
 ## How many design patterns?
 In my code, it includes eight design patterns, such as: 
 
-- 1.Observer Pattern.
-- 2.Singleton Pattern.
-- 3.Factory Pattern.
-- 4.Adapter Pattern.
-- 5.Strategy Pattern.
-- 6.Responsibility Chain Pattern.
-- 7.Model Method Pattern.
-- 8.Proxy Pattern.
+- 1.[Observer Pattern:]()use a example that observes the weather.
+- 2.[Singleton Pattern:]()
+- 3.[Factory Pattern:]()
+- 4.[Adapter Pattern:]() use a example that three plugin notebook but two plugin adapter.
+- 5.[Strategy Pattern:]()
+- 6.[Responsibility Chain Pattern:]() use a example that
+- 7.[Model Method Pattern:]()
+- 8.[Proxy Pattern:]()
