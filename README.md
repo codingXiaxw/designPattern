@@ -12,11 +12,11 @@ It has too much advantages.
 ## How many design patterns?
 In my code, it includes eight design patterns, such as: 
 
-- 1.[Observer Pattern:]()use a example that observes the weather.
-- 2.[Singleton Pattern:]()
-- 3.[Factory Pattern:]()
-- 4.[Adapter Pattern:]() use a example that three plugin notebook but two plugin adapter.
-- 5.[Strategy Pattern:]()
-- 6.[Responsibility Chain Pattern:]() use a example that
-- 7.[Model Method Pattern:]()
-- 8.[Proxy Pattern:]()
+- 1.Observer Pattern: use a example that observes the weather.
+- 2.Singleton Pattern: look the code in my project.
+- 3.Factory Pattern: use a example that face style in people.
+- 4.Adapter Pattern: use a example that three plugin notebook but two plugin adapter.
+- 5.Strategy Pattern: look the code in my project.
+- 6.Responsibility Chain Pattern: use a example that people buy houses.
+- 7.Model Method Pattern: look the code in my project.
+- 8.Proxy Pattern: look the code in my project.
